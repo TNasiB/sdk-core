@@ -158,7 +158,7 @@ const ARBITRUM_SEPOLIA_ADDRESSES: ChainAddresses = {
 const SEPOLIA_ADDRESSES: ChainAddresses = {
   v3CoreFactoryAddress: '0x6374358b1697766ED55Dd02eCaEE86272a311BA7',
   multicallAddress: '0xd3db8e3f7486ba56349f88b3b5200020d1d32d4d',
-  quoterAddress: '0x754f20127F45c9E5c15A6cA177EEad78ebA93B4C',
+  quoterAddress: '0x91Be3809F45CB607d83cF7562BC05558BDC57e73',
   v3MigratorAddress: '0x729004182cF005CEC8Bd85df140094b6aCbe8b15',
   nonfungiblePositionManagerAddress: '0x8160C90754b944C4BDc7cf93A476c124a582FD6B',
   tickLensAddress: '0xa7c696aBd9EAC361BA66BEC006e204Ece9A2d0e5',
