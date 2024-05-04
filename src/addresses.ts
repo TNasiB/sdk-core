@@ -156,13 +156,13 @@ const ARBITRUM_SEPOLIA_ADDRESSES: ChainAddresses = {
 
 // sepolia v3 addresses
 const SEPOLIA_ADDRESSES: ChainAddresses = {
-  v3CoreFactoryAddress: '0x6374358b1697766ED55Dd02eCaEE86272a311BA7',
-  multicallAddress: '0xd3db8e3f7486ba56349f88b3b5200020d1d32d4d',
-  quoterAddress: '0x91Be3809F45CB607d83cF7562BC05558BDC57e73',
-  v3MigratorAddress: '0x729004182cF005CEC8Bd85df140094b6aCbe8b15',
-  nonfungiblePositionManagerAddress: '0x8160C90754b944C4BDc7cf93A476c124a582FD6B',
-  tickLensAddress: '0xa7c696aBd9EAC361BA66BEC006e204Ece9A2d0e5',
-  swapRouter02Address: '0x16aB2F2f1f3079e7bf9699c284409c4BE8704489'
+  v3CoreFactoryAddress: '0x4395d744fA3D985fA78A4e20183D79aCaB7F8F00',
+  multicallAddress: '0x0490d65E42388DF4E388d5E801Ba59f463eAE98E',
+  quoterAddress: '0x8a58Ba91530335D2f3A2A9dDDFb00DD4D1b7DB49',
+  v3MigratorAddress: '0x5Dab59C8e50eB362D6DB4A1F0AC1E8736BB32974',
+  nonfungiblePositionManagerAddress: '0x87b6C46716fE1B008ea7822EE11d9cC42ea05f58',
+  tickLensAddress: '0xB0143315F89814B7Af2763BD09070618EBc0B078',
+  swapRouter02Address: '0xabA86e02f7a8ecE308ac962e16D4928072A7773d'
 }
 
 // Avalanche v3 addresses
