@@ -165,6 +165,16 @@ const SEPOLIA_ADDRESSES: ChainAddresses = {
   swapRouter02Address: '0xE227f11892BBe546A6DC05Ab6FaF3406b20a81d8'
 }
 
+const ATLETA_OLYMPIA_ADDRESSES: ChainAddresses = {
+  v3CoreFactoryAddress: '0x3A2d3E0DBa6ddB1401b52c48cd930a2AB4CF7B84',
+  multicallAddress: '0xd833F12b94C97b738C22B18bCD97E96016934189',
+  quoterAddress: '0x899Da3C2C4F3cE7e422d131Cc15103ff6240dA54',
+  v3MigratorAddress: '0xe6912F944a6c63c5c1a14A2A8F10279C3759A911',
+  nonfungiblePositionManagerAddress: '0xe3D88408dBf5F0a370aA0C5d2E1469fd7ee33311',
+  tickLensAddress: '0x9a69D5f1C9EFfa10FfE3Da1E78407004FB6C1DFB',
+  swapRouter02Address: '0x5687AEcDB1b756C4064357f751E415DE768EcAE4'
+}
+
 // Avalanche v3 addresses
 const AVALANCHE_ADDRESSES: ChainAddresses = {
   v3CoreFactoryAddress: '0x740b1c1de25031C31FF4fC9A62f554A55cdC1baD',
@@ -257,7 +267,8 @@ export const CHAIN_TO_ADDRESSES_MAP: Record<SupportedChainsType, ChainAddresses>
   [ChainId.ZORA]: ZORA_ADDRESSES,
   [ChainId.ZORA_SEPOLIA]: ZORA_SEPOLIA_ADDRESSES,
   [ChainId.ROOTSTOCK]: ROOTSTOCK_ADDRESSES,
-  [ChainId.BLAST]: BLAST_ADDRESSES
+  [ChainId.BLAST]: BLAST_ADDRESSES,
+  [ChainId.ATLETA_OLYMPIA]: ATLETA_OLYMPIA_ADDRESSES
 }
 
 /* V3 Contract Addresses */
