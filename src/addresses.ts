@@ -65,7 +65,7 @@ export const V2_ROUTER_ADDRESSES: AddressMap = {
   [ChainId.POLYGON]: '0xedf6066a2b290c185783862c7f4776a2c8077ad1',
   [ChainId.BLAST]: '0xBB66Eb1c5e875933D44DAe661dbD80e5D9B03035',
   [ChainId.SEPOLIA]: '0xBB1bc1AC006FBA062b8323Dd314DE27D903BAceD',
-  [ChainId.ATLETA_OLYMPIA]: '0x02163b25e37759ff9D0b27838A58F85b9371E094'
+  [ChainId.ATLETA_OLYMPIA]: '0xA3E985ba42cF95195ff10514a6E2918F4BB77Df2'
 }
 
 // Networks that share most of the same addresses i.e. Mainnet, Goerli, Optimism, Arbitrum, Polygon
@@ -174,7 +174,7 @@ const ATLETA_OLYMPIA_ADDRESSES: ChainAddresses = {
   v3MigratorAddress: '0x68c4F368691f09D900ad09Ce55b80d40D1915e4e',
   nonfungiblePositionManagerAddress: '0x23C2d0d577A45a83Ab16ab9D78de6a8537e6958B',
   tickLensAddress: '0x68D9F3bd0F7b73a534991366214F8CAEcff9fcAc',
-  swapRouter02Address: '0xE546cFFAc4af5C01c21d593fE9a25B682e89504B'
+  swapRouter02Address: '0x02163b25e37759ff9D0b27838A58F85b9371E094'
 }
 
 // Avalanche v3 addresses
