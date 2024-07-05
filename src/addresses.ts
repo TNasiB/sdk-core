@@ -168,13 +168,13 @@ const SEPOLIA_ADDRESSES: ChainAddresses = {
 }
 
 const ATLETA_OLYMPIA_ADDRESSES: ChainAddresses = {
-  v3CoreFactoryAddress: '0x2013aaC1438FB8482EE9b005b632BCCaee8DEDb0',
-  multicallAddress: '0x33996E6cC97e7ebE122d6b96E0a5E5a9F7EA111E',
-  quoterAddress: '0x5d36ccea81de5248b434Dc793DDC9b03CEEfC8Fb',
-  v3MigratorAddress: '0x68c4F368691f09D900ad09Ce55b80d40D1915e4e',
-  nonfungiblePositionManagerAddress: '0x23C2d0d577A45a83Ab16ab9D78de6a8537e6958B',
-  tickLensAddress: '0x68D9F3bd0F7b73a534991366214F8CAEcff9fcAc',
-  swapRouter02Address: '0x02163b25e37759ff9D0b27838A58F85b9371E094'
+  v3CoreFactoryAddress: '0x21e371f1063a64bCa0FdaC2D52846a4558fa1f51',
+  multicallAddress: '0xCc9ae935CE9E7121c3819f4e4F07F4Ba84FB3E48',
+  quoterAddress: '0x913c5E16895f2bFff7e15476939ef0C770891494',
+  v3MigratorAddress: '0xbB08B98F067dAB142CE227FF28Ba6eD60E5Eae63',
+  nonfungiblePositionManagerAddress: '0x4d33C102ffe34312e430A7c93cA58ef6f534C309',
+  tickLensAddress: '0x8caE858d65a5f01d2D4dBc5287d709DEb00E7219',
+  swapRouter02Address: '0x6d14f02DA7E82F984914E11e0099B6BD318354E9'
 }
 
 // Avalanche v3 addresses
