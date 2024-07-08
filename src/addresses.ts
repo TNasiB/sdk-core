@@ -174,7 +174,7 @@ const ATLETA_OLYMPIA_ADDRESSES: ChainAddresses = {
   v3MigratorAddress: '0xbB08B98F067dAB142CE227FF28Ba6eD60E5Eae63',
   nonfungiblePositionManagerAddress: '0x4d33C102ffe34312e430A7c93cA58ef6f534C309',
   tickLensAddress: '0x8caE858d65a5f01d2D4dBc5287d709DEb00E7219',
-  swapRouter02Address: '0x6d14f02DA7E82F984914E11e0099B6BD318354E9'
+  swapRouter02Address: '0x523a88d85fD96cCD5FBD0c98d44d249a2F387aBe'
 }
 
 // Avalanche v3 addresses
