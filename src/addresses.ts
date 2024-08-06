@@ -172,7 +172,7 @@ const ATLETA_OLYMPIA_ADDRESSES: ChainAddresses = {
   multicallAddress: '0xac74b5069e16179bbB869fA4ACf65b2Cc80F9F99',
   quoterAddress: '0x8Ce65318d5B3621f4250353261ea19cdDF096b9a',
   v3MigratorAddress: '0xD02172D70833cCF7ee237fF17dc6544294Dd3Cf7',
-  nonfungiblePositionManagerAddress: '0x9a35F3544d3DfADA1A9276233458CDb5312E96E8',
+  nonfungiblePositionManagerAddress: '0x69a07DF7Bc4d67E5EA37e83Ce468F15D047D9297',
   tickLensAddress: '0xeB34aAfee0936d3864e650920F5Daa2b46896b7b',
   swapRouter02Address: '0x31cAc5C91c483A637116934D21565361950e6b7F'
 }
